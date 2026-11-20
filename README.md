@@ -153,8 +153,6 @@ Department of Electronics and Communication Engineering (ECE)
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
-
 **Project Domain:** Embedded Systems
 
 **Department:** Electronics and Communication Engineering (ECE)
