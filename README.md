@@ -1,2 +1,1 @@
-Adaptive Street Light Control Using Time and Environmental Illumination
 An Embedded C-based Adaptive Street Light Control System using an LPC214x microcontroller. It automatically controls street lights based on LDR sensor readings and RTC schedules. Integrates ADC, LCD, keypad, LEDs and buzzer. Developed using Keil µVision, simulated in Proteus and implemented on a physical hardware kit.
