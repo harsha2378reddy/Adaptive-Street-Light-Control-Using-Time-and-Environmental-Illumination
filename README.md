@@ -49,46 +49,17 @@ The project integrates ADC, LCD display, 4×4 keypad, LEDs, buzzer, and external
 
 ## 6. Project Folder Structure
 
-Adaptive-Street-Light-Control/
-│
+Adaptive-Street-Light-Control-Using-Time-and-Environmental-Illumination
+
 ├── README.md
-│
-├── Source_Code/
-│   ├── Main.c
-│   ├── LCD.c
-│   ├── LCD.h
-│   ├── ADC.c
-│   ├── ADC.h
-│   ├── RTC.c
-│   ├── RTC.h
-│   ├── KPM.c
-│   ├── KPM.h
-│   ├── LED.c
-│   ├── LED.h
-│   ├── INT.c
-│   ├── INT.h
-│   ├── Menu.c
-│   ├── Menu.h
-│   ├── RTCedit.c
-│   ├── RTCedit.h
-│   ├── delay.c
-│   ├── delay.h
-│   ├── defines.h
-│   ├── LCD_defines.h
-│   ├── ADC_defines.h
-│   ├── KPM_defines.h
-│   └── types.h
-│
-├── Circuit_Diagrams/
-│   ├── Proteus_Circuit.png
-│   ├── Block_Diagram.png
-│   └── System_Flowchart.png
-│
-├── Project_Photos/
-│   ├── LCD_Display/
-│   └── Programming/
-│
-└── Documentation/
+
+├── Source_Code
+
+├── Circuit_Diagrams
+
+├── Project_Photos
+
+|── Documentation
 
 ## 7. Systematic Block Diagram
 
