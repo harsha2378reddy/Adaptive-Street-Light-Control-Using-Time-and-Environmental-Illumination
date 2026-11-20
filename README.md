@@ -49,7 +49,6 @@ The project integrates ADC, LCD display, 4×4 keypad, LEDs, buzzer, and external
 
 ## 6. Project Folder Structure
 
-```text
 Adaptive-Street-Light-Control/
 │
 ├── README.md
@@ -83,82 +82,42 @@ Adaptive-Street-Light-Control/
 ├── Circuit_Diagrams/
 │   ├── Proteus_Circuit.png
 │   ├── Block_Diagram.png
-│   ├── Hardware_Connections.png
 │   └── System_Flowchart.png
 │
 ├── Project_Photos/
-│   ├── Hardware_Setup/
 │   ├── LCD_Display/
 │   └── Programming/
 │
 └── Documentation/
     ├── Working_Principle.md
     └── Pin_Configuration.md
-```
 
 ## 7. Systematic Block Diagram
 
-![Systematic Block Diagram](Circuit_Diagrams/Block_Diagram.png)
-
-## 8. Circuit Diagrams
+<img width="1536" height="1024" alt="LPC2148 Adaptive Street Light Prototype" src="https://github.com/user-attachments/assets/5d8163a0-ce28-4f80-9205-56cff9d908cf" />
 
 ### 8.1 Proteus Circuit Diagram
 
 The circuit was designed and simulated using Proteus Design Suite on a laptop.
 
-![Proteus Circuit](Circuit_Diagrams/Proteus_Circuit.png)
-
-### 8.2 Hardware Connections
-
-![Hardware Connections](Circuit_Diagrams/Hardware_Connections.png)
+<img width="873" height="614" alt="Project" src="https://github.com/user-attachments/assets/2c08ca2b-60d0-402b-9761-0b71b6cc8bcc" />
 
 ### 8.3 System Flowchart
 
-![System Flowchart](Circuit_Diagrams/System_Flowchart.png)
-
-## 9. Hardware Implementation
-
-The project was implemented and tested using a physical hardware development kit.
-
-### Development Board
-
-![Development Board](Project_Photos/Hardware_Setup/Development_Board.jpeg)
-
-### Complete Hardware Setup
-
-![Complete Hardware Setup](Project_Photos/Hardware_Setup/Complete_Hardware_Setup.jpeg)
-
-### LDR Dark Condition
-
-![Dark Condition](Project_Photos/Hardware_Setup/LDR_Dark_Condition.jpeg)
-
-### LDR Bright Condition
-
-![Bright Condition](Project_Photos/Hardware_Setup/LDR_Bright_Condition.jpeg)
+<img width="424" height="517" alt="faa7e307-6c0a-4677-bb1a-fcc224d8ff4b" src="https://github.com/user-attachments/assets/3c1d85aa-25b7-4f25-b7c0-bca64937db8b" />
 
 ## 10. LCD Display Results
-
-### Project Title Display
-
-![Project Title](Project_Photos/LCD_Display/Project_Title.jpeg)
-
-### RTC Display
-
-![RTC Display](Project_Photos/LCD_Display/RTC_Display.jpeg)
-
-### Street Light ON
-
-![Light ON](Project_Photos/LCD_Display/Light_ON.jpeg)
-
-### Street Light OFF
-
-![Light OFF](Project_Photos/LCD_Display/Light_OFF.jpeg)
+<img width="1600" height="793" alt="WhatsApp Image 2026-11-20 at 12 43 19 AM" src="https://github.com/user-attachments/assets/0ed0f277-1fb3-4773-b1c6-c7ec87be5457" />
+<img width="1533" height="570" alt="WhatsApp Image 2026-11-20 at 12 43 20 AM" src="https://github.com/user-attachments/assets/0031b7ac-ce7d-4ebb-8130-5bdc62a2361f" />
+<img width="1440" height="539" alt="WhatsApp Image 2026-11-20 at 12 43 21 AM" src="https://github.com/user-attachments/assets/0477bb9b-99aa-498b-9314-a2e48a5d6ba4" />
+<img width="1600" height="767" alt="WhatsApp Image 2026-11-20 at 12 43 21 AM (3)" src="https://github.com/user-attachments/assets/41bb8c60-efc5-4f92-8e23-bcaa7a72ddf4" />
+<img width="1600" height="582" alt="WhatsApp Image 2026-11-20 at 12 43 21 AM (1)" src="https://github.com/user-attachments/assets/a7796199-b803-4e9f-bf3a-015aedeb19cb" />
 
 ## 11. Programming
 
 The microcontroller programming process and HEX file loading can be documented here.
 
-![Flash Magic Programming](Project_Photos/Programming/Flash_Magic_Programming.jpeg)
+<img width="1600" height="1200" alt="WhatsApp Image 2026-11-20 at 12 43 23 AM" src="https://github.com/user-attachments/assets/beb2dd5e-f368-4a38-b549-afe0c0ac1f1c" />
 
 ## 12. How to Run the Project
 
