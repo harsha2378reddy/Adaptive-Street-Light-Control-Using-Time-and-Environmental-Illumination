@@ -89,8 +89,6 @@ Adaptive-Street-Light-Control/
 │   └── Programming/
 │
 └── Documentation/
-    ├── Working_Principle.md
-    └── Pin_Configuration.md
 
 ## 7. Systematic Block Diagram
 
