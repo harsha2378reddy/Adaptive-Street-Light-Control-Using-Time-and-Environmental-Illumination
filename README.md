@@ -63,17 +63,13 @@ Adaptive-Street-Light-Control-Using-Time-and-Environmental-Illumination
 
 ## 7. Systematic Block Diagram
 
-<img width="1672" height="941" alt="block" src="https://github.com/user-attachments/assets/a5ab7fc1-08c0-45e6-bdf1-230f394855f7" />
+<img width="1536" height="1024" alt="hc" src="https://github.com/user-attachments/assets/b812b1d8-8904-4fac-b836-5eb450b0a8da" />
 
 ### 8.1 Proteus Circuit Diagram
 
 The circuit was designed and simulated using Proteus Design Suite on a laptop.
 
 <img width="873" height="614" alt="Project" src="https://github.com/user-attachments/assets/2c08ca2b-60d0-402b-9761-0b71b6cc8bcc" />
-
-### 8.3 System Flowchart
-
-<img width="424" height="517" alt="faa7e307-6c0a-4677-bb1a-fcc224d8ff4b" src="https://github.com/user-attachments/assets/3c1d85aa-25b7-4f25-b7c0-bca64937db8b" />
 
 ## 10. LCD Display Results
 <img width="1600" height="793" alt="WhatsApp Image 2026-11-20 at 12 43 19 AM" src="https://github.com/user-attachments/assets/0ed0f277-1fb3-4773-b1c6-c7ec87be5457" />
