@@ -63,7 +63,7 @@ Adaptive-Street-Light-Control-Using-Time-and-Environmental-Illumination
 
 ## 7. Systematic Block Diagram
 
-<img width="1536" height="1024" alt="LPC2148 Adaptive Street Light Prototype" src="https://github.com/user-attachments/assets/5d8163a0-ce28-4f80-9205-56cff9d908cf" />
+<img width="1672" height="941" alt="block" src="https://github.com/user-attachments/assets/a5ab7fc1-08c0-45e6-bdf1-230f394855f7" />
 
 ### 8.1 Proteus Circuit Diagram
 
